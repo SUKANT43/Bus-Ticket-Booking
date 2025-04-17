@@ -1,6 +1,6 @@
 # 🚌 Bus Booking System (Java)
 
-A simple command-line Java application that simulates a bus seat booking system. Users can view available buses and book seats based on availability and date.
+A simple command-line Java application that simulates a bus seat booking system. Users can view available buses and book seats based on availability and 
 
 ---
 
